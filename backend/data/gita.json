@@ -1,0 +1,18 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Arjuna Vishada Yoga",
+      "verses": [
+        {
+          "id": 1,
+          "sanskrit": "धृतराष्ट्र उवाच...",
+          "english": "Dhritarashtra said...",
+          "hindi": "धृतराष्ट्र ने कहा...",
+          "telugu": "ధృతరాష్ట్రుడు ఇలా అన్నాడు..."
+        }
+      ]
+    }
+  ]
+}
+
